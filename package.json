@@ -1,0 +1,12 @@
+{
+  "name": "cordova-plugin-read-cookie",
+  "version": "0.1.0",
+  "cordova": {
+    "id": "cordova-plugin-read-cookie",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "A Cordova Plugin to read a cookie value"
+}
